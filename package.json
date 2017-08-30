@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "cron": "^1.2.1",
     "dotenv": "^4.0.0",
     "request": "^2.81.0",
     "shopify-node-api": "^1.8.0"
